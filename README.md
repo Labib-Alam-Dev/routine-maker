@@ -1,6 +1,6 @@
 # Class Routine Generator
 - reuploaded (old account is lost)
-This Python project generates class routines for multiple classes while ensuring that teachers don't have overlapping schedules.
+- This Python project generates class routines for multiple classes while ensuring that teachers don't have overlapping schedules.
 
 ## Features
 
